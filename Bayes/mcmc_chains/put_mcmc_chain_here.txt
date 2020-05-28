@@ -1,0 +1,1 @@
+Previously run MCMC samples (the 'chain') can be stored in this directory, so that one can use an existing trained model to make predictions w/o rerunning MCMC. 
